@@ -1,5 +1,5 @@
 ```bash
-// inicializa un proyecot en js
+// inicializa un proyecto en js
 $ npm init
 
 // instalar paquetes necesarios
