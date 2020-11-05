@@ -10,3 +10,5 @@ $ node example.js
 ```
 
 [ejemplo básico](https://github.com/manviny/nightmarejs/blob/master/scratch.js)
+
+[web oficiual](https://github.com/segmentio/nightmare)
